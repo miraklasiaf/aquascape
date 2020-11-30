@@ -1,4 +1,4 @@
-const baseUrl = "https://github.com/miraklasiaf/next-ts-starter"
+const baseUrl = "https://github.com/miraklasiaf/aquascape"
 
 const siteConfig = {
   copyright: `Copyright © ${new Date().getFullYear()} Faisal Karim. All Rights Reserved.`,

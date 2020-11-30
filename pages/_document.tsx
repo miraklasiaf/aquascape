@@ -27,10 +27,6 @@ class Document extends NextDocument {
             content="/static/favicon/browserconfig.xml"
             name="msapplication-config"
           />
-          <meta
-            name="google-site-verification"
-            content="KfTyzAKabwlabC29C3S23xuqg6nq_fG94IRlnpFSNtI"
-          />
           <link href="/static/favicon/favicon.ico" rel="shortcut icon" />
           <link href="/static/favicon/site.webmanifest" rel="manifest" />
           <link
